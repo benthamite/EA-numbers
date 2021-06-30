@@ -1,0 +1,28 @@
+* Downloading for the first time
+If you never used the deck before, you can download it straight away from [[https://ankiweb.net/shared/info/1810848608][AnkiWeb]].
+
+* Upgrading to the latest version
+If you are already using a version of the deck and would like to upgrade to the latest version, you first need to install the [[https://github.com/Stvad/CrowdAnki][CrowdAnki]] add-on:
+
+1. Open Anki on your computer and select /Tools/ > /Add-ons/ > /Get Add-ons/.
+2. Paste the code ~1788670778~ and click /OK/.
+3. Restart Anki.
+
+You're now ready to upgrade:
+
+1. Go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][Releases]] page.
+2. In the latest release's Downloads section, download the file ~EA-numbers.zip~.
+3. Extract the content of the archive to your computer.
+4. Open Anki and make sure your devices are all synchronized.
+5. Select /File/ > /CrowdAnki: Import from disk/.
+6. Browse for and select the folder you extracted, named ~EA-numbers~.
+7. Don't change anything in the CrowdAnki Import Settings dialog box that opens -- just press OK to start the import. A dialog box should then confirm that the import was successful.
+
+* Browsing the deck without using Anki
+If you would like to browse the deck's contents without using Anki, go [[https://github.com/benthamite/EA-numbers/blob/main/source.org][here]]. This is the org mode file used to generate the Anki deck (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), so it will always reflect the most recent version.
+
+* Staying abreast of new releases
+If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
+
+* Bug reports and suggestions for improvement
+If you would like to report an error or inaccuracy with the deck, or would like to suggest questions or topics for future releases, please [[https://github.com/benthamite/EA-numbers/issues][open an issue]].
