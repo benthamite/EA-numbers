@@ -10,13 +10,13 @@ If you are already using a version of the deck and would like to upgrade to the 
 
 You're now ready to upgrade:
 
-1. Go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][Releases]] page.
-2. In the latest release's Downloads section, download the file ~EA-numbers.zip~.
-3. Extract the content of the archive to your computer.
+1. Go to the [[https://github.com/benthamite/EA-numbers/releases][Releases]] page.
+2. Under /Assets/, download the file ~EA-numbers.zip~.
+3. Extract the contents of the file to your computer.
 4. Open Anki and make sure your devices are all synchronized.
 5. Select /File/ > /CrowdAnki: Import from disk/.
 6. Browse for and select the folder you extracted, named ~EA-numbers~.
-7. Don't change anything in the CrowdAnki Import Settings dialog box that opens -- just press OK to start the import. A dialog box should then confirm that the import was successful.
+7. Don't change anything in the CrowdAnki Import Settings dialog box that opens—just press OK to start the import. A dialog box should then confirm that the import was successful.
 
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, go [[https://github.com/benthamite/EA-numbers/blob/main/source.org][here]]. This is the org mode file used to generate the Anki deck (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), so it will always reflect the most recent version.
@@ -24,5 +24,5 @@ If you would like to browse the deck's contents without using Anki, go [[https:/
 * Staying abreast of new releases
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
 
-* Bug reports and suggestions for improvement
+* Bug reports and improvement suggestions
 If you would like to report an error or inaccuracy with the deck, or would like to suggest questions or topics for future releases, please [[https://github.com/benthamite/EA-numbers/issues][open an issue]].
