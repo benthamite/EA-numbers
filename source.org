@@ -1,15 +1,6 @@
 #+TITLE: Some key numbers that (almost) every EA should know
 #+AUTHOR: Pablo Stafforini <pablo@stafforini.com>
 
-:PROPERTIES:
-:TOC:      ignore
-:END:
-
-* Table of Contents
-:PROPERTIES:
-:TOC:      :include all
-:END:
-
 * Age of the universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -23,8 +14,6 @@ What is the age of the universe?
 13.772 billion years.
 ** Source
 "In physical cosmology, the age of the universe is the time elapsed since the Big Bang. Today, astronomers have derived two different measurements of the age of the universe: a measurement based on direct observations of an early state of the universe, which indicate an age of 13.772 ± 0.040 billion years within the Lambda-CDM concordance model as of 2018; and a measurement based on the observations of the local, modern universe which suggest a younger age." ([[https://en.wikipedia.org/wiki/Age_of_the_universe][Wikipedia]])
-** Meta
-
 * Age of Earth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -38,8 +27,6 @@ What is the age of Earth?
 4.54 billion years.
 ** Source
 "The age of Earth is estimated to be 4.54 ± 0.05 billion years (4.54 × 109 years ± 1%). This age may represent the age of the Earth's accretion, or core formation, or of the material from which the Earth formed. This dating is based on evidence from radiometric age-dating of meteorite material and is consistent with the radiometric ages of the oldest-known terrestrial and lunar samples." ([[https://en.wikipedia.org/wiki/Age_of_Earth][Wikipedia]])
-** Meta
-
 * Age of /homo sapiens/
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -53,7 +40,6 @@ What is the age of /homo sapiens/?
 300,000 years.
 ** Source
 "H. sapiens emerged around 300,000 years ago, evolving from Homo erectus and migrating out of Africa, gradually replacing local populations of archaic humans." ([[https://en.wikipedia.org/wiki/Human][Wikipedia]])
-** Meta
 * Humans who ever lived
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -68,8 +54,6 @@ Around 108 billion.
 
 ** Source
 [[https://web.archive.org/web/20120308152306/https://www.prb.org/Articles/2002/HowManyPeopleHaveEverLivedonEarth.aspx][Population Reference Bureau]].
-** Meta
-
 * Invention of writing
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -84,8 +68,6 @@ Between 3400 and 3250 BCE.
 
 ** Source
 "the discovery of the scripts of ancient Mesoamerica, far away from Middle Eastern sources, proved that writing had been invented more than once. Scholars now recognize that writing may have independently developed in at least four ancient civilizations: Mesopotamia (between 3400 and 3100 BCE), Egypt (around 3250 BCE), China (1200 BCE), and lowland areas of Southern Mexico and Guatemala (by 500 BCE)." ([[https://en.wikipedia.org/wiki/History_of_writing#Inventions_of_writing][Wikipedia]])
-** Meta
-
 * Neolithic revolution
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -99,8 +81,6 @@ When did the neolithic revolution occur?
 Around 10,000 BCE.
 ** Source
 "Archaeological data indicates that the domestication of various types of plants and animals happened in separate locations worldwide, starting in the geological epoch of the Holocene 11,700 years ago. It was the world's first historically verifiable revolution in agriculture." ([[https://en.wikipedia.org/wiki/Neolithic_Revolution][Wikipedia]])
-** Meta
-
 * Industrial revolution
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -114,8 +94,6 @@ When did the industrial revolution occur?
 Between 1760 and 1840.
 ** Source
 "The Industrial Revolution was the transition to new manufacturing processes in Europe and the United States, in the period from between 1760 to 1820 and 1840." ([[https://en.wikipedia.org/wiki/Industrial_Revolution][Wikipedia]])
-** Meta
-
 * World median annual income
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -129,8 +107,6 @@ What is median annual income, globally?
 Int$2,835 (2019).
 ** Source
 [[https://drive.google.com/file/d/17_XiLHc6g8FRPa5ukiU-YjGByHbCV_Jr/view][Data for Giving What We Can's 'How rich are you?' calculator]] (cell L128).
-** Meta
-
 * Gross world product
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -144,8 +120,6 @@ What is gross world product?
 87.735 trillion (2019), in current USD.
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.MKTP.CD][World Bank]].
-** Meta
-
 * World GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -160,8 +134,6 @@ Int$17,633 (2019).
 
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?most_recent_value_desc=true][World Bank]].
-** Meta
-
 * China's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -176,8 +148,6 @@ Int$16,804 (2019).
 
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?most_recent_value_desc=true][World Bank]].
-** Meta
-
 * United States's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -192,8 +162,6 @@ Int$65,298 (2019).
 
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?most_recent_value_desc=true][World Bank]].
-** Meta
-
 * India's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -208,8 +176,6 @@ Int$6,997 (2019).
 
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?most_recent_value_desc=true][World Bank]].
-** Meta
-
 * European Union's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -224,8 +190,6 @@ Int$46,443 (2019).
 
 ** Source
 [[https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.CD?most_recent_value_desc=true][World Bank]].
-** Meta
-
 * Poorest Americans and richest Indians
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -240,8 +204,6 @@ For what /n/ is the poorest /n%/ of Americans roughly as rich as the richest /n%
 
 ** Source
 [[http://www.marbiru.com/inequality/][Uri Bram]], based on data from Branko Milanović.
-** Meta
-
 * Fraction of world in extreme poverty in 1820.
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -255,8 +217,6 @@ What fraction of the world's population in 1820 lived in extreme poverty?
 About 90%.
 ** Source
 [[https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?country=~OWID_WRL][Our World in Data]]. 'Extreme poverty' is defined as living with less than Int$1.90 per day.
-** Meta
-
 * Fraction of world currently in extreme poverty
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -270,8 +230,6 @@ What fraction of the world's population lives in extreme poverty?
 About 10% (2015).
 ** Source
 [[https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute?country=~OWID_WRL][Our World in Data]]. 'Extreme poverty' is defined as living with less than Int$1.90 per day.
-** Meta
-
 * Time until Earth no longer habitable
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -291,8 +249,6 @@ Between 800 million and two billion years.
 
 "Over such long timespans, we cannot ignore the possibility that evolution may lead to new life forms able to exist in climates inhospitable to presently existing life forms. Indeed, the first C4 plants appeared around 32 million
 years ago (Kellog, 2013)." (Toby Ord, /The Precipice/, pp. 296–297)
-** Meta
-
 * Number of working days in a year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -306,8 +262,6 @@ What is the number of working days in a year?
 Around 250.
 ** Source
 According to [[https://www.work-day.co.uk/][this online calculator]], the figures for the US, UK and Germany are 250, 253 and 255, respectively.
-** Meta
-
 * Number of working hours in a year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -322,8 +276,6 @@ For Western nations, between 1,350 (Germany) and 1,750 (US).
 
 ** Source
 [[https://ourworldindata.org/working-hours][Our World in Data]].
-** Meta
-
 * Good Ventures's total assets
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -337,7 +289,6 @@ What are Good Ventures's total assets?
 2.114 billion.
 ** Source
 [[https://projects.propublica.org/nonprofits/display_990/461008520/10_2020_prefixes_45-46%2F461008520_201906_990PR_2020102217399905][IRS filling]], p. 2, box 16c.
-** Meta
 * World population
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -351,7 +302,6 @@ What is the current world population?
 7.87 billion (2021).
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
-** Meta
 * Projected world population for 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -365,8 +315,6 @@ What is the projected world population for 2050?
 9.74 billion.
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
-** Meta
-
 * Peak world population
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -380,8 +328,6 @@ At what number will world population peak?
 Around 10.88 billion.
 ** Source
 "In this projection the world population will be around 10.88 billion in 2100 and we would therefore expect ‘peak population’ to occur early in the 22nd century, at not much more than 10.88 billion." ([[https://ourworldindata.org/future-population-growth#the-un-population-projection-by-country-and-world-region-until-2100][Our World in Data]])
-** Meta
-
 * Population of China
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -395,8 +341,6 @@ What is the current population of China?
 1.44 billion (2021).
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~CHN][Our World in Data]].
-** Meta
-
 * Population of China in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -410,8 +354,6 @@ What is the population of China projected for 2050?
 1.40 billion.
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~CHN][Our World in Data]].
-** Meta
-
 * Population of India
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -425,7 +367,6 @@ What is the current population of India?
 1.39 billion (2021).
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~IND][Our World in Data]].
-** Meta
 * Population of India in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -439,7 +380,6 @@ What is the population of India projected for 2050?
 1.64 billion.
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~IND][Our World in Data]].
-** Meta
 * Population of US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -453,7 +393,6 @@ What is the current population of the United States?
 333 million (2021).
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~USA][Our World in Data]].
-** Meta
 * Population of US in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -467,8 +406,6 @@ What is the population of the United States projected for 2050?
 379 million.
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~USA][Our World in Data]].
-** Meta
-
 * Population of Europe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -482,7 +419,6 @@ What is the current population of Europe?
 748 million (2021).
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~Europe][Our World in Data]].
-** Meta
 * Population of Europe in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -496,8 +432,6 @@ What is the population of Europe projected for 2050?
 710 million.
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~Europe][Our World in Data]].
-** Meta
-
 * Energy consumed by human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -511,8 +445,6 @@ How much energy does a human brain consume?
 20 W.
 ** Source
 [[https://hypertextbook.com/facts/2001/JacquelineLing.shtml][The Physics Factbook]].
-** Meta
-
 * Value of statistical life in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -526,8 +458,6 @@ What are typical estimates for the value of statistical life in the United State
 Around $10 million.
 ** Source
 "The value of a statistical life (VSL) is the local tradeoff rate between fatality risk and money. When the tradeoff values are derived from choices in market contexts the VSL serves as both a measure of the population’s willingness to pay for risk reduction and the marginal cost of enhancing safety. Given its fundamental economic role, policy analysts have adopted the VSL as the economically correct measure of the benefit individuals receive from enhancements to their health and safety. Estimates of the VSL for the United States are around $10 million ($2017), and estimates for other countries are generally lower given the positive income elasticity of the VSL." ([[https://doi.org/10.1093/acrefore/9780190625979.013.138][Kniesner & Viscusi 2019]])
-** Meta
-
 * Number of neurons in the human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -541,8 +471,6 @@ How many neurons are in the human brain?
 86 billion.
 ** Source
 [[https://doi.org/10.1002/cne.21974][Azevedo /et al/ 2009]].
-** Meta
-
 * Total number of neurons in all living animals
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -556,8 +484,6 @@ How many neurons are contained in the brains of all animals currently alive?
 About \(2.81 \times 10^{23}\).
 ** Source
 Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Human share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -571,8 +497,6 @@ What fraction of all living neurons are human neurons?
 About 0.22%.
 ** Source
 Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Mammal share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -586,8 +510,6 @@ What fraction of all living neurons are mammal neurons?
 About 0.26%.
 ** Source
 Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Bird share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -601,8 +523,6 @@ What fraction of all living neurons are bird neurons?
 About 0.03%.
 ** Source
 Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Fish share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -616,8 +536,6 @@ What fraction of all living neurons are fish neurons?
 About 33%.
 ** Source
 Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Invertebrate share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -631,8 +549,6 @@ What fraction of all living neurons are invertebrate neurons?
 About 66%.
 ** Source
 Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
-** Meta
-
 * Estimated number of lives saved by smallpox eradication
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -646,8 +562,6 @@ What is the estimated number of lives saved by smallpox eradication?
 Between 150 and 200 million.
 ** Source
 "To date the eradication of smallpox saved millions of lives. It is impossible to know very exactly how many people would have died of smallpox since 1980 if scientists had not developed the vaccine, but reasonable estimates are in the range of around 5 million lives per year, which implies that between 1980 and 2018 around 150 to 200 million lives have been saved." ([[https://ourworldindata.org/smallpox#lives-saved-from-smallpox-eradication][Our World in Data]])
-** Meta
-
 * Number of deaths from mosquito-borne diseases
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -661,8 +575,6 @@ How many people have been killed by mosquito-borne diseases?
 About 52 billion.
 ** Source
 [[https://en.wikipedia.org/wiki/Special:BookSources?isbn=9780735235793][Winegard 2019]]. This figure has not been vetted and may not be accurate.
-** Meta
-
 * Open Philanthropy's yearly grants
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -676,8 +588,6 @@ What is the annual volume of Open Philanthropy's grantmaking?
 Around $270 million (2017–2020).
 ** Source
 [[https://www.openphilanthropy.org/giving/grants][Open Philanthropy]]. Between 2017 and 2020, Open Phil granted $312,480,277, $197,047,477, $297,963,147 and $272,128,076, respectively, the average of which is $269,904,744. Prior to 2017, the annual volume of grants was much lower.
-** Meta
-
 * Open Phil grants in global catastrophic risk
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -691,8 +601,6 @@ What is the cumulative volume of Open Philanthropy's grants related to global ca
 $284 million (June 2021).
 ** Source
 [[https://www.openphilanthropy.org/giving/grants][Open Philanthropy]] (adding the following categories: Biosecurity and Pandemic Preparedness [93 million], Global Catastrophic Risks [35 million] and Potential Risks from Advanced Artificial Intelligence [157 million]).
-** Meta
-
 * Open Phil grants in global health and development
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -706,8 +614,6 @@ What is the cumulative volume of Open Philanthropy's grants related to global he
 $491 million (June 2021).
 ** Source
 [[https://www.openphilanthropy.org/giving/grants][Open Philanthropy]].
-** Meta
-
 * Open Phil grants in to farm animal welfare
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -721,8 +627,6 @@ What is the cumulative volume of Open Philanthropy's grants related to farm anim
 $141 million (June 2021).
 ** Source
 [[https://www.openphilanthropy.org/giving/grants][Open Philanthropy]].
-** Meta
-
 * Donations moved by GiveWell
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -736,8 +640,6 @@ How much money has GiveWell moved?
 $674 million (2011–2019).
 ** Source
 [[https://www.givewell.org/about/impact][GiveWell]].
-** Meta
-
 * Donations by Americans
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -751,8 +653,6 @@ How much money do Americans donate annually?
 $450 billion (2019).
 ** Source
 "Americans gave $449.64 billion in 2019. This reflects a 5.1% increase from 2018." ([[https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/][National Philanthropic Trust]])
-** Meta
-
 * Donations by American foundations
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -766,8 +666,6 @@ How much money do American foundations donate annually?
 $76 billion (2019).
 ** Source
 "Foundation giving in 2019 increased to $75.69 billion—a 2.5% increase from 2018." ([[https://www.nptrust.org/philanthropic-resources/charitable-giving-statistics/][National Philanthropic Trust]])
-** Meta
-
 * Donations moved by ACE
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -781,8 +679,6 @@ How much money has Animal Charity Evaluators moved?
 $26.4 million (2014–2019).
 ** Source
 [[https://animalcharityevaluators.org/about/impact/giving-metrics/][Animal Charity Evaluators]].
-** Meta
-
 * Number of GWWC pledges
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -796,7 +692,6 @@ How many people have taken the Giving What We Can pledge?
 7,233 (June 2021).
 ** Source
 [[https://www.givingwhatwecan.org/about-us/members/][Giving What We Can]].
-** Meta
 * EA Forum monthly visitors
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -811,7 +706,6 @@ Around 25,000 (2021).
 
 ** Source
 CEA (personal communication).
-** Meta
 * Active EA groups
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -825,8 +719,6 @@ How many EA active groups are there?
 Perhaps 200 (2021).
 ** Source
 [[https://eahub.org/groups/][EA Hub]] lists 244 groups, but some are probably not active.
-** Meta
-
 * Size of median annual EA donation
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -840,8 +732,6 @@ What fraction of their income does the median EA donate?
 Around 3% (2018).
 ** Source
 "The median percentage of income donated in 2018 was 3.23%." ([[https://forum.effectivealtruism.org/posts/29xPsh2MKkYGCuJhS/ea-survey-2019-series-donation-data][EA Survey]])
-** Meta
-
 * Number of highly engaged EAs
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -855,7 +745,6 @@ How many highly engaged EAs are there?
 Around 2,300 (2019).
 ** Source
 "we estimate there are around 2315 highly engaged EAs and 6500 (90% CI: 4700-10,000) active EAs in the community overall." ([[https://forum.effectivealtruism.org/posts/zQRHAFKGWcXXicYMo/ea-survey-2019-series-how-many-people-are-there-in-the-ea][EA Survey]])
-** Meta
 * Number of people 80k advises per year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -869,8 +758,6 @@ How many people does 80,000 Hours advise in a year?
 Around 240 (average of 2017–2020).
 ** Source
 [[https://docs.google.com/document/d/1rWfQ3Lja2kYoUm_t9uNqBgEn5nz6KL8fmNP5db8cZRU/edit#bookmark=kix.z9l7j1qxtsho][80,000 Hours]].
-** Meta
-
 * Number of bacteria
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -884,7 +771,6 @@ How many bacteria are there?
 Around \(5 \times 10^{30}\).
 ** Source
 "There are approximately \(5 \times 10^{30}\) bacteria on Earth, forming a biomass which is only exceeded by plants." ([[https://en.wikipedia.org/wiki/Bacteria][Wikipedia]])
-** Meta
 * Number of atoms in the affectable universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -898,8 +784,6 @@ How many atoms are there in the affectable universe?
 Between \(10^{78}\) and \(10^{82}\).
 ** Source
 "it is estimated that the there are between \(10^{78}\) and \(10^{82}\) atoms in the known, observable universe." ([[https://www.universetoday.com/36302/atoms-in-the-universe/][Villanueva 2009]])
-** Meta
-
 * Big tech market capitalization
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -913,7 +797,6 @@ What is the market capitalization of the Big Five?
 Around $8.5 trillion (June 2021).
 ** Source
 [[https://companiesmarketcap.com/tech/largest-tech-companies-by-market-cap/][Companies Market Cap]]. The Big Five are Apple, Microsoft, Amazon, Google and Facebook. The largest Big Five company (Apple) is worth around $2 trillion, roughly twice as much as the smallest (Facebook).
-** Meta
 * WHO budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -927,8 +810,6 @@ What is the budget of the World Health Organization?
 $4.5 billion (2021).
 ** Source
 [[http://open.who.int/2020-21/budget-and-financing/summary][World Health Organization]]. Note that WHO reports budgets biennially, so the figure in their report is $9 billion.
-** Meta
-
 * United Nations budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -942,8 +823,6 @@ What is the United Nations's revenue?
 $57 billion (2019).
 ** Source
 [[https://unsceb.org/fs-revenue][United Nations]].
-** Meta
-
 * BWC budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -957,8 +836,6 @@ What is the budget of the Biological Weapons Convention?
 $1.4 million (2019).
 ** Source
 [[https://undocs.org/pdf?symbol=en/BWC/MSP/2019/5#:~:text=5.,been%20received%20from%20States%20Parties.][Report on the Overall Financial Situation of the Biological Weapons Convention]], p. 3, table 1. "Consider the possibility of engineered pandemics, which we shall soon see to be one of the largest risks facing humanity. The international body responsible for the continued prohibition of bioweapons (the Biological Weapons Convention) has an annual budget of just $1.4 million—less than the average McDonald’s restaurant." ([[https://theprecipice.com/][Ord 2020]]: 57)
-** Meta
-
 * OPCW budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -972,8 +849,6 @@ What is the budget of the Organisation for the Prohibition of Chemical Weapons?
 €71 million (2020).
 ** Source
 [[https://www.opcw.org/media-centre/opcw-numbers][OPCW]] ([[https://www.google.com/search?q=71+eur+to+usd][convert]] to USD).
-** Meta
-
 * Japan's life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -987,8 +862,6 @@ What is Japan's life expectancy at birth?
 84.3 years (2020).
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy][Wikipedia]]. Japan is the country with the highest life expectancy in the world (81.5 years for males and 86.9 years for females).
-** Meta
-
 * Lesotho's life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1002,8 +875,6 @@ What is Lesotho's life expectancy at birth?
 50.7 years (2020).
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy][Wikipedia]]. Lesotho is the country with the lowest life expectancy in the world (47.7 years for males and 54.2 years for females).
-** Meta
-
 * World life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1017,8 +888,6 @@ What is world life expectancy at birth?
 73.3 years (2020).
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy][Wikipedia]] (70.8 years for males and 75.9 years for females).
-** Meta
-
 * World's life expectancy at birth in 1800
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1032,8 +901,6 @@ What was the world's life expectancy at birth in 1800?
 28.5 years.
 ** Source
 [[https://ourworldindata.org/life-expectancy#rising-life-expectancy-around-the-world][Our World in Data]].
-** Meta
-
 * Millionaires in the world
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1048,8 +915,6 @@ How many millionaires are there in the world?
 
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_the_number_of_millionaires][Wikipedia]]. About 40% of the world's millionaires are in the United States.
-** Meta
-
 * Billionaires in the world
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1064,8 +929,6 @@ How many billionaires are there in the world?
 
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_number_of_billionaires#cite_note-Forbes-1][Wikipedia]]. The United States and China have roughly the same number of billionaires, and they together account for about half of the world's billionaires.
-** Meta
-
 * Computational power of the human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1079,8 +942,6 @@ How much computational power does it take to match the human brain?
 Something like \(10^{15}\) floating point operations per second.
 ** Source
 "Overall, I think it more likely than not that  \(10^{15}\) FLOP/s is enough to perform tasks as well as the human brain (given the right software, which may be very hard to create). And I think it unlikely (<10%) that more than \(10^{21}\) FLOP/s is required. But I’m not a neuroscientist, and there’s no consensus in neuroscience (or elsewhere)." ([[https://www.openphilanthropy.org/brain-computation-report][Carlsmith 2020]]; see the [[https://www.openphilanthropy.org/brain-computation-report#Appendix5][appendix]] for additional estimates)
-** Meta
-
 * Pocket calculator share of total computation in 1986
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1094,8 +955,6 @@ What share of total computation did pocket calculators account for in 1986?
 41%.
 ** Source
 "The calculator laid the cornerstone for modern microprocessors and was still the dominant way to compute information in 1986 (41% of \(3.0 \times 10^8\) general-purpose MIPS [million operations per second])." ([[https://doi.org/10.1126/science.1200970][Hilbert & López 2011]])
-** Meta
-
 * Age of the oldest company
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1111,8 +970,6 @@ How old is the oldest independent, continuously operating company in history?
 
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_oldest_companies][Wikipedia]]. The business is question is Kongō Gumi, a construction company founded in 578. In 2006, it became a subsidiary of the Takamatsu Construction Group.
-** Meta
-
 * Primary energy consumption
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1126,8 +983,6 @@ How much primary energy does the world consume in a year?
 162,000 terawatt-hours.
 ** Source
 [[https://ourworldindata.org/explorers/energy?tab=chart&country=~OWID_WRL&Total+or+Breakdown=Total&Energy+or+Electricity=Primary+energy&Metric=Annual+consumption][Our World in Data]].
-** Meta
-
 * Cost to avert a death by supporting a top GiveWell charity
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1141,8 +996,6 @@ What is the cost of averting a death by supporting a top GiveWell charity?
 $3,000–$5,000.
 ** Source
 "We estimate that $3,000 - $5,000 will save a life.﻿" ([[https://www.givewell.org/charities/top-charities][GiveWell]]) The charities for which this estimate is given are Malaria Consortium, Against Malaria Foundation, Helen Keller International and New Incentives. More precise figures may be found in their [[https://docs.google.com/spreadsheets/d/16XOOB1oWse1ICbF0OVXUYtwWwpvG3mxAAQ6LYAAndQU/edit#gid=1034883018&range=A29][cost-effectiveness model]].
-** Meta
-
 * Cost to distribute a bed net
 ** Front
 How much does it cost to provide a bed net for protection against malaria?
@@ -1150,8 +1003,6 @@ How much does it cost to provide a bed net for protection against malaria?
 Around $5.
 ** Source
 "We estimate that nets delivered by Against Malaria Foundation cost $4.95 each.﻿" ([[https://www.givewell.org/charities/top-charities/citations#Cost_of_providing_nets][GiveWell]])
-** Meta
-
 * Number of chickens consumed annually in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1166,8 +1017,6 @@ How many chickens does the average American eat every year?
 
 ** Source
 [[https://countinganimals.com/how-many-animals-does-a-vegetarian-save/][Sethu 2015]].
-** Meta
-
 * Number of cows consumed per year in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1182,8 +1031,6 @@ How many cows does the average American eat every year?
 
 ** Source
 [[https://countinganimals.com/how-many-animals-does-a-vegetarian-save/][Sethu 2015]].
-** Meta
-
 * Chicken-years affected per dollar spent on campaigns
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1197,7 +1044,6 @@ How many chicken-years are affected per dollar spent on broiler and cage-free ca
 9–120.
 ** Source
 "I estimate how many chickens will be affected by corporate cage-free and broiler welfare commitments won by all charities, in all countries, during all the years between 2005 and the end of 2018. According to my estimate, for every dollar spent, 9 to 120 years of chicken life will be affected. However, the estimate doesn't take into account indirect effects which could be more important." ([[https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life][Šimčikas 2019]])
-** Meta
 * Number of stars in the Milky Way
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1211,8 +1057,6 @@ How many stars does the Milky Way contain?
 100–400 billion.
 ** Source
 "[The Milky Way] is estimated to contain 100–400 billion stars and at least that number of planets." ([[https://en.wikipedia.org/wiki/Milky_Way][Wikipedia]])
-** Meta
-
 * Number of galaxies in the affectable universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1226,8 +1070,6 @@ How many galaxies are there in the affectable universe?
 Around 7 billion.
 ** Source
 "The affectable universe contains about 7 billion galaxies with a total of between \(10^{21}\) and \(10^{23}\) stars." ([[https://arxiv.org/abs/2104.01191][Ord 2021]]: 22)
-** Meta
-
 * Number of affectable galaxies lost per year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1241,8 +1083,6 @@ How many affectable galaxies are lost every year?
 3.
 ** Source
 "Each year the affectable universe will only shrink in volume by about one part in 5 billion. Even if we waited a million years, it would only diminish by one part in 5 thousand. It would take 50 million years, before its volume would shrink by 1%. In absolute terms, these would be losses on a scale beyond normal comprehension: the loss of 3 entire galaxies for every year of delay — thousands of stars every second. But for most purposes it is the relative scale that matters." ([[https://arxiv.org/abs/2104.01191][Ord 2021]]: 22)
-** Meta
-
 * Fraction of world population killed by the Black Death
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1256,8 +1096,6 @@ What fraction of the world's population was killed by the Black Death?
 Around 10%.
 ** Source
 "By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] [M]y lowest plausible estimate adds up to 20,856,000, and my highest plausible estimate adds up to 68,016,000. The geometric mean of these two numbers is 37,666,533." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
-** Meta
-
 * Fraction of world population killed by 1918 flu pandemic
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1271,8 +1109,6 @@ What fraction of the world's population was killed by the 1918 flu pandemic?
 Around 3%.
 ** Source
 "By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] To construct my estimate, I struck a balance between empirical estimates and speculation, relying more on the former than the latter, and (somewhat arbitrarily) guessed that the 1918 flu pandemic killed ~60 million people." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
-** Meta
-
 * Fraction of world population killed in World War II
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1286,8 +1122,6 @@ What fraction of the world's population was killed in World War II?
 Around 3%.
 ** Source
 "Wikipedia’s List of wars and anthropogenic disasters by death toll provided “lowest” and “highest” estimates for World War II of 65 million and 85 million, respectively. However, I quickly found that in Matthew White’s collection of historians’ estimates of the death toll of World War II, /most/ estimates were lower than 55 million, with the median estimate at 50 million [about 2.9% of the world's population at the time]." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
-** Meta
-
 * Fraction of psych studies that replicate
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1301,7 +1135,6 @@ What fraction of studies in psychology replicate?
 35%–40%.
 ** Source
 [[https://mfr.osf.io/render?url=https://osf.io/jq7v6/?action=download%26mode=render][Table 1]] of [[https://doi.org/10.1126/science.aac4716][Nosek 2015]] summarizes the main findings. Studies in cognitive psychology replicate at roughly twice the rate as studies in social psychology.
-** Meta
 * Fraction of econ studies that replicate
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -1315,5 +1148,3 @@ What fraction of studies in economics replicate?
 Around 60%.
 ** Source
 A /Science/ study found that about 60% of economics experiments successfully replicated ([[https://doi.org/10.1126%2Fscience.aaf0918][Camerer /et al/ 2016]]). Participants in the DARPA SCORE programme forecast that 58% of studies in economics will replicate ([[https://doi.org/10.1098/rsos.200566][Gordon /et al/ 2020]]).
-** Meta
-
