@@ -1148,3 +1148,17 @@ What fraction of studies in economics replicate?
 Around 60%.
 ** Source
 A /Science/ study found that about 60% of economics experiments successfully replicated ([[https://doi.org/10.1126%2Fscience.aaf0918][Camerer /et al/ 2016]]). Participants in the DARPA SCORE programme forecast that 58% of studies in economics will replicate ([[https://doi.org/10.1098/rsos.200566][Gordon /et al/ 2020]]).
+* Fraction of history when humanity alive
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+For what fraction of the history of the universe have humans been alive?
+** Back
+0.0022%.
+** Source
+As noted in the relevant cards, the universe has existed for 13.772 billion years and humanity has existed for 300,000. \(\frac{300000}{13722000000} = 0.00002186270223\).
+** Meta
+
