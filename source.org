@@ -106,7 +106,7 @@ What is median annual income, globally?
 ** Back
 Int$2,835 (2019).
 ** Source
-[[https://drive.google.com/file/d/17_XiLHc6g8FRPa5ukiU-YjGByHbCV_Jr/view][Data for Giving What We Can's 'How rich are you?' calculator]] (cell L128).
+[[https://drive.google.com/file/d/17_XiLHc6g8FRPa5ukiU-YjGByHbCV_Jr/view][Data for Giving What We Can's 'How rich are you?' calculator]] (cell L128). You can get a vivid sense of what it's like to live with this income by visiting [[https://www.gapminder.org/dollar-street?min=230&max=240&p=][Dollar Street]] ($2835/year corresponds to $236.25/month).
 * Gross world product
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -204,7 +204,7 @@ For what /n/ is the poorest /n%/ of Americans roughly as rich as the richest /n%
 
 ** Source
 [[http://www.marbiru.com/inequality/][Uri Bram]], based on data from Branko Milanović.
-* Fraction of world in extreme poverty in 1820.
+* Fraction of world in extreme poverty in 1820
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
   :ANKI_NOTE_TYPE: EA
@@ -248,7 +248,7 @@ Between 800 million and two billion years.
 "The open question is whether carbon dioxide depletion or temperature increases will render Earth uninhabitable before the runaway or moist greenhouse limits are reached. Rushby et al. (2018) estimate carbon dioxide depletion will occur in around 800 million years for C3 photosynthesis, and around 500 million years later for C4 photosynthesis.
 
 "Over such long timespans, we cannot ignore the possibility that evolution may lead to new life forms able to exist in climates inhospitable to presently existing life forms. Indeed, the first C4 plants appeared around 32 million
-years ago (Kellog, 2013)." (Toby Ord, /The Precipice/, pp. 296–297)
+years ago (Kellog, 2013)." ([[https://theprecipice.com/][Ord 2020]]: 296–297)
 * Number of working days in a year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
@@ -810,7 +810,7 @@ What is the budget of the World Health Organization?
 $4.5 billion (2021).
 ** Source
 [[http://open.who.int/2020-21/budget-and-financing/summary][World Health Organization]]. Note that WHO reports budgets biennially, so the figure in their report is $9 billion.
-* United Nations budget
+* UN budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
   :ANKI_NOTE_TYPE: EA
@@ -818,7 +818,7 @@ $4.5 billion (2021).
   :ANKI_NOTE_ID: 1624919196696
   :END:
 ** Front
-What is the United Nations's revenue?
+What is the budget of the United Nations?
 ** Back
 $57 billion (2019).
 ** Source
@@ -883,7 +883,7 @@ What is Lesotho's life expectancy at birth?
   :ANKI_NOTE_ID: 1624919197394
   :END:
 ** Front
-What is world life expectancy at birth?
+What is the world's life expectancy at birth?
 ** Back
 73.3 years (2020).
 ** Source
@@ -954,7 +954,7 @@ What share of total computation did pocket calculators account for in 1986?
 ** Back
 41%.
 ** Source
-"The calculator laid the cornerstone for modern microprocessors and was still the dominant way to compute information in 1986 (41% of \(3.0 \times 10^8\) general-purpose MIPS [million operations per second])." ([[https://doi.org/10.1126/science.1200970][Hilbert & López 2011]])
+"The calculator laid the cornerstone for modern microprocessors and was still the dominant way to compute information in 1986 (41% of \(3.0 \times 10^{8}\) general-purpose MIPS [million operations per second])." ([[https://doi.org/10.1126/science.1200970][Hilbert & López 2011]])
 * Age of the oldest company
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
