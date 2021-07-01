@@ -18,8 +18,45 @@ You're now ready to upgrade:
 6. Browse for and select the folder you extracted, named ~EA-numbers~.
 7. Don't change anything in the CrowdAnki Import Settings dialog box that opens—just press OK to start the import. A dialog box should then confirm that the import was successful.
 
+* Building the deck from the source file
+The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]), and uploading this file to the current repository. If you are an Emacs user, you can simplify the process and create the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. In case it helps, here is my ~anki-editor~ configuration:
+
+#+begin_src emacs-lisp :results silent
+(use-package anki-editor
+  :after org
+  :custom
+  (anki-editor-create-decks t)
+  (anki-editor-org-tags-as-anki-tags t)
+  :init
+  (setq-default anki-editor-use-math-jax t) ; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
+  ;; create custom key map
+  (progn
+    (defvar anki-editor-mode-map (make-sparse-keymap))
+    (add-to-list 'minor-mode-map-alist (cons 'anki-editor-mode
+					     anki-editor-mode-map)))
+  :config
+  ;; Copied from github.com/louietan/anki-editor/issues/39#issuecomment-606156415
+  (defun filter-out-p (str _ _)
+    (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
+
+  (setq anki-editor--ox-anki-html-backend
+	(org-export-create-backend
+	 :parent 'html
+	 :filters
+	 '((:filter-paragraph . filter-out-p))))
+
+  ;; github.com/louietan/anki-editor/issues/39#issuecomment-606156415
+  (defun filter-out-p (str _ _)
+    (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
+
+  (setq anki-editor--ox-anki-html-backend
+	(org-export-create-backend
+	 :parent 'html
+	 :filters
+	 '((:filter-paragraph . filter-out-p)))))
+#+end_src
 * Browsing the deck without using Anki
-If you would like to browse the deck's contents without using Anki, go [[https://github.com/benthamite/EA-numbers/blob/main/source.org][here]]. This is the org mode file used to generate the Anki deck (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), so it will always reflect the most recent version.
+If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
 
 * Staying abreast of new releases
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
