@@ -35,16 +35,6 @@ The deck is created by pushing the contents of an org mode file to the Anki desk
     (add-to-list 'minor-mode-map-alist (cons 'anki-editor-mode
 					     anki-editor-mode-map)))
   :config
-  ;; Copied from github.com/louietan/anki-editor/issues/39#issuecomment-606156415
-  (defun filter-out-p (str _ _)
-    (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
-
-  (setq anki-editor--ox-anki-html-backend
-	(org-export-create-backend
-	 :parent 'html
-	 :filters
-	 '((:filter-paragraph . filter-out-p))))
-
   ;; github.com/louietan/anki-editor/issues/39#issuecomment-606156415
   (defun filter-out-p (str _ _)
     (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
@@ -53,7 +43,15 @@ The deck is created by pushing the contents of an org mode file to the Anki desk
 	(org-export-create-backend
 	 :parent 'html
 	 :filters
-	 '((:filter-paragraph . filter-out-p)))))
+	 '((:filter-paragraph . filter-out-p))))
+;; requires github.com/noctuid/general.el; otherwise use `:bind' and adjust the syntax
+  :general
+  ("A-i" 'anki-editor-mode)
+  (anki-editor-mode-map
+   "s-c" 'anki-editor-cloze-region
+   "s-i" 'anki-editor-insert-note
+   "s-p" 'anki-editor-push-notes
+   "s-A-p" 'ps/anki-editor-push-notes-multi-paragraph))
 #+end_src
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
