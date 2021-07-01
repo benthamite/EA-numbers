@@ -28,7 +28,8 @@ The deck is created by pushing the contents of an org mode file to the Anki desk
   (anki-editor-create-decks t)
   (anki-editor-org-tags-as-anki-tags t)
   :init
-  (setq-default anki-editor-use-math-jax t) ; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
+  ;; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
+  (setq-default anki-editor-use-math-jax t)
   ;; create custom key map
   (progn
     (defvar anki-editor-mode-map (make-sparse-keymap))
@@ -38,7 +39,6 @@ The deck is created by pushing the contents of an org mode file to the Anki desk
   ;; github.com/louietan/anki-editor/issues/39#issuecomment-606156415
   (defun filter-out-p (str _ _)
     (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
-
   (setq anki-editor--ox-anki-html-backend
 	(org-export-create-backend
 	 :parent 'html
