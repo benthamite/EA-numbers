@@ -325,7 +325,7 @@ What is the projected world population for 2050?
 ** Front
 At what number will world population peak?
 ** Back
-Around 10.88 billion.
+Around 11 billion.
 ** Source
 "In this projection the world population will be around 10.88 billion in 2100 and we would therefore expect ‘peak population’ to occur early in the 22nd century, at not much more than 10.88 billion." ([[https://ourworldindata.org/future-population-growth#the-un-population-projection-by-country-and-world-region-until-2100][Our World in Data]])
 * Population of China
@@ -481,7 +481,7 @@ How many neurons are in the human brain?
 ** Front
 How many neurons are contained in the brains of all animals currently alive?
 ** Back
-About \(2.81 \times 10^{23}\).
+Around \(3 \times 10^{23}\).
 ** Source
 Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCMTELTdaSB1g9Ds-2WKSU/edit#gid=1855091310][estimates]].
 * Human share of total neurons
@@ -1080,7 +1080,7 @@ Around 7 billion.
 ** Front
 How many affectable galaxies are lost every year?
 ** Back
-3.
+Three.
 ** Source
 "Each year the affectable universe will only shrink in volume by about one part in 5 billion. Even if we waited a million years, it would only diminish by one part in 5 thousand. It would take 50 million years, before its volume would shrink by 1%. In absolute terms, these would be losses on a scale beyond normal comprehension: the loss of 3 entire galaxies for every year of delay — thousands of stars every second. But for most purposes it is the relative scale that matters." ([[https://arxiv.org/abs/2104.01191][Ord 2021]]: 22)
 * Fraction of world population killed by the Black Death
