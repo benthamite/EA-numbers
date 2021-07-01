@@ -50,8 +50,7 @@ The deck is created by pushing the contents of an org mode file to the Anki desk
   (anki-editor-mode-map
    "s-c" 'anki-editor-cloze-region
    "s-i" 'anki-editor-insert-note
-   "s-p" 'anki-editor-push-notes
-   "s-A-p" 'ps/anki-editor-push-notes-multi-paragraph))
+   "s-p" 'anki-editor-push-notes))
 #+end_src
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
