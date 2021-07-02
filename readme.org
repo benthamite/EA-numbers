@@ -19,7 +19,7 @@ You're now ready to upgrade:
 7. Don't change anything in the CrowdAnki Import Settings dialog box that opens—just press OK to start the import. A dialog box should then confirm that the import was successful.
 
 * Building the deck from the source file
-The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]), and uploading this file to the current repository. If you are an Emacs user, you can simplify the process and create the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. In case it helps, here is my ~anki-editor~ configuration:
+The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]), and uploading this file to the current repository. If you are an Emacs user, you can simplify the process and create the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. In case it is of interest, here is my ~anki-editor~ configuration:
 
 #+begin_src emacs-lisp :results silent
 (use-package anki-editor

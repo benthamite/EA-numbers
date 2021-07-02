@@ -648,7 +648,7 @@ $674 million (2011–2019).
   :ANKI_NOTE_ID: 1624919195164
   :END:
 ** Front
-How much money do Americans donate annually?
+How much money in total do Americans donate annually?
 ** Back
 $450 billion (2019).
 ** Source
@@ -661,7 +661,7 @@ $450 billion (2019).
   :ANKI_NOTE_ID: 1624919195463
   :END:
 ** Front
-How much money do American foundations donate annually?
+How much money in total do American foundations donate annually?
 ** Back
 $76 billion (2019).
 ** Source
@@ -1153,12 +1153,11 @@ A /Science/ study found that about 60% of economics experiments successfully rep
   :ANKI_DECK: EA-numbers
   :ANKI_NOTE_TYPE: EA
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1625155373261
   :END:
 ** Front
 For what fraction of the history of the universe have humans been alive?
 ** Back
 0.0022%.
 ** Source
-As noted in the relevant cards, the universe has existed for 13.772 billion years and humanity has existed for 300,000. \(\frac{300000}{13722000000} = 0.00002186270223\).
-** Meta
-
+As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. \(\frac{300,000}{13,722,000,000} = 0.00002186270223\).
