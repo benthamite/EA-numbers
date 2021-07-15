@@ -297,7 +297,7 @@ What are Good Ventures's total assets?
   :ANKI_NOTE_ID: 1624919191065
   :END:
 ** Front
-What is the current world population?
+What is the world population?
 ** Back
 7.87 billion (2021).
 ** Source
@@ -336,7 +336,7 @@ Around 11 billion.
   :ANKI_NOTE_ID: 1624919191562
   :END:
 ** Front
-What is the current population of China?
+What is the population of China?
 ** Back
 1.44 billion (2021).
 ** Source
@@ -362,7 +362,7 @@ What is the population of China projected for 2050?
   :ANKI_NOTE_ID: 1624919191721
   :END:
 ** Front
-What is the current population of India?
+What is the population of India?
 ** Back
 1.39 billion (2021).
 ** Source
@@ -388,7 +388,7 @@ What is the population of India projected for 2050?
   :ANKI_NOTE_ID: 1624919191944
   :END:
 ** Front
-What is the current population of the United States?
+What is the population of the United States?
 ** Back
 333 million (2021).
 ** Source
@@ -414,7 +414,7 @@ What is the population of the United States projected for 2050?
   :ANKI_NOTE_ID: 1624919192098
   :END:
 ** Front
-What is the current population of Europe?
+What is the population of Europe?
 ** Back
 748 million (2021).
 ** Source
@@ -479,7 +479,7 @@ How many neurons are in the human brain?
   :ANKI_NOTE_ID: 1624919193750
   :END:
 ** Front
-How many neurons are contained in the brains of all animals currently alive?
+How many neurons are contained in the brains of all living animals?
 ** Back
 Around \(3 \times 10^{23}\).
 ** Source
@@ -700,12 +700,12 @@ How many people have taken the Giving What We Can pledge?
   :ANKI_NOTE_ID: 1624919195737
   :END:
 ** Front
-How many monthly visitors does the EA Forum currently receive?
+How many monthly visitors does the EA Forum receive?
 ** Back
 Around 25,000 (2021).
 
 ** Source
-CEA (personal communication).
+CEA (private communication).
 * Active EA groups
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
