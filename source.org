@@ -1043,7 +1043,7 @@ How many chicken-years are affected per dollar spent on broiler and cage-free ca
 ** Back
 9–120.
 ** Source
-"I estimate how many chickens will be affected by corporate cage-free and broiler welfare commitments won by all charities, in all countries, during all the years between 2005 and the end of 2018. According to my estimate, for every dollar spent, 9 to 120 years of chicken life will be affected. However, the estimate doesn't take into account indirect effects which could be more important." ([[https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life][Šimčikas 2019]])
+"I estimate how many chickens will be affected by corporate cage-free and broiler welfare commitments won by all charities, in all countries, during all the years between 2005 and the end of 2018. According to my estimate, for every dollar spent, 9 to 120 years of chicken life will be affected. However, the estimate doesn't take into account indirect effects which could be more important." ([[https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life][Šimčikas 2019]]) See [[https://forum.effectivealtruism.org/posts/L5EZjjXKdNgcm253H/corporate-campaigns-affect-9-to-120-years-of-chicken-life#Ways_this_estimate_could_be_misleading][this section]] of that post for a list of ways in which the estimate may be misleading.
 * Number of stars in the Milky Way
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
