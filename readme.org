@@ -1,3 +1,8 @@
+#+TITLE:Some key numbers that every effective altruist should know
+#+AUTHOR: Pablo Stafforini <pablo@stafforini.com>
+
+This is a repository for the Anki deck "Some key numbers that every effective altruist should know". See the [[https://forum.effectivealtruism.org/posts/o9SLSkPJ6A2MWb9Bf/anki-deck-for-some-key-numbers-that-almost-every-ea-should][original announcement]] on the Effective Altruism Forum for details.
+
 * Downloading for the first time
 If you never used the deck before, you can download it straight away from [[https://ankiweb.net/shared/info/1810848608][AnkiWeb]].
 
@@ -19,41 +24,37 @@ You're now ready to upgrade:
 7. Don't change anything in the CrowdAnki Import Settings dialog box that opens—just press OK to start the import. A dialog box should then confirm that the import was successful.
 
 * Building the deck from the source file
-The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][Anki editor Emacs package]]), exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]), and uploading this file to the current repository. If you are an Emacs user, you can simplify the process and create the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. (Please note that you will have to delete the lines starting with ~:ANKI_NOTE_ID:~ under each main heading; otherwise ~Anki editor~ will emit an error message.)
+The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can simplify the process by creating the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. (Please note that you need to delete the lines starting with ~:ANKI_NOTE_ID:~ under each main heading; otherwise anki-editor will emit an error message.)
 
-In case it is of interest, here is my ~anki-editor~ configuration:
+In case it is of interest, here is my anki-editor configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]] and [[https://github.com/jwiegley/use-package][use-package]] installed):
 
 #+begin_src emacs-lisp :results silent
 (use-package anki-editor
-  :after org
-  :custom
-  (anki-editor-create-decks t)
-  (anki-editor-org-tags-as-anki-tags t)
+  :straight (:fork (:repo "leoc/anki-editor" :branch "develop"))
   :init
-  ;; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
-  (setq-default anki-editor-use-math-jax t)
+  (setq-default anki-editor-use-math-jax t) ; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
   ;; create custom key map
   (progn
     (defvar anki-editor-mode-map (make-sparse-keymap))
     (add-to-list 'minor-mode-map-alist (cons 'anki-editor-mode
-					     anki-editor-mode-map)))
+                                             anki-editor-mode-map)))
+  :custom
+  (anki-editor-create-decks t)
+  (anki-editor-org-tags-as-anki-tags t)
   :config
-  ;; github.com/louietan/anki-editor/issues/39#issuecomment-606156415
-  (defun filter-out-p (str _ _)
-    (replace-regexp-in-string "\n<p>\\|</p>\n\\|<p>\\|</p>" "" str))
-  (setq anki-editor--ox-anki-html-backend
-	(org-export-create-backend
-	 :parent 'html
-	 :filters
-	 '((:filter-paragraph . filter-out-p))))
-;; requires github.com/noctuid/general.el; otherwise use `:bind' and adjust the syntax
-  :general
-  ("A-i" 'anki-editor-mode)
-  (anki-editor-mode-map
-   "s-c" 'anki-editor-cloze-region
-   "s-i" 'anki-editor-insert-note
-   "s-p" 'anki-editor-push-notes))
+  ;; The very simple Keyboard Maestro macro called by this function may be downloaded here:
+  ;; https://www.dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
+  (defun ps/anki-editor-open-note-externally ()
+    "Copy note id to clipboard, switch to Anki desktop, and open note in browser."
+    (interactive)
+    (let ((note-id (org-entry-get nil "ANKI_NOTE_ID")))
+      (if (eq note-id nil)
+          (error "Note id not found")
+        (progn
+          (kill-new (concat "nid:" note-id))
+          (shell-command "osascript -e 'tell application \"Keyboard Maestro Engine\" to do script \"496A3425-8985-4117-AE0F-ABD6DC85FB9F\"'"))))))
 #+end_src
+
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
 
