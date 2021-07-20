@@ -41,7 +41,7 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
   :custom
   (anki-editor-create-decks t)
   (anki-editor-org-tags-as-anki-tags t)
-  :confight
+  :config
   ;; The very simple Keyboard Maestro macro called by this function may be downloaded here:
   ;; https://www.dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
   (defun ps/anki-editor-open-note-externally ()
