@@ -1,7 +1,7 @@
 #+TITLE:Some key numbers that every effective altruist should know
 #+AUTHOR: Pablo Stafforini <pablo@stafforini.com>
 
-This is a repository for the Anki deck "Some key numbers that every effective altruist should know". See the [[https://forum.effectivealtruism.org/posts/o9SLSkPJ6A2MWb9Bf/anki-deck-for-some-key-numbers-that-almost-every-ea-should][original announcement]] on the Effective Altruism Forum for details.
+This is a repository for the Anki deck "Some key numbers that every effective altruist should know". See the [[https://forum.effectivealtruism.org/posts/o9SLSkPJ6A2MWb9Bf/anki-deck-for-some-key-numbers-that-almost-every-ea-should][original announcement]] posted to the Effective Altruism Forum for details.
 
 * Downloading for the first time
 If you never used the deck before, you can download it straight away from [[https://ankiweb.net/shared/info/1810848608][AnkiWeb]].
@@ -26,7 +26,7 @@ You're now ready to upgrade:
 * Building the deck from the source file
 The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can simplify the process by creating the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. (Please note that you need to delete the lines starting with ~:ANKI_NOTE_ID:~ under each main heading; otherwise anki-editor will emit an error message.)
 
-In case it is of interest, here is my anki-editor configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]] and [[https://github.com/jwiegley/use-package][use-package]] installed):
+In case it is of interest, here is my anki-editor configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]], [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
 
 #+begin_src emacs-lisp :results silent
 (use-package anki-editor
@@ -41,7 +41,7 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
   :custom
   (anki-editor-create-decks t)
   (anki-editor-org-tags-as-anki-tags t)
-  :config
+  :confight
   ;; The very simple Keyboard Maestro macro called by this function may be downloaded here:
   ;; https://www.dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
   (defun ps/anki-editor-open-note-externally ()
@@ -52,7 +52,16 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
           (error "Note id not found")
         (progn
           (kill-new (concat "nid:" note-id))
-          (shell-command "osascript -e 'tell application \"Keyboard Maestro Engine\" to do script \"496A3425-8985-4117-AE0F-ABD6DC85FB9F\"'"))))))
+          (shell-command "osascript -e 'tell application \"Keyboard Maestro Engine\" to do script \"496A3425-8985-4117-AE0F-ABD6DC85FB9F\"'")))))
+  :general
+  ("M-A-i" 'anki-editor-mode)
+  (anki-editor-mode-map
+   "s-c" 'anki-editor-cloze-region
+   "s-i" 'anki-editor-insert-note
+   "s-n" 'anki-editor-push-new-notes
+   "s-x" 'ps/anki-editor-open-note-externally
+   "s-a" 'anki-editor-push-notes ; push all notes
+   "s-h" (lambda () (interactive) (anki-editor-push-notes '(4))))) ; push notes under heading
 #+end_src
 
 * Browsing the deck without using Anki
