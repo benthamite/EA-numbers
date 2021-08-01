@@ -67,6 +67,8 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
 
+You can also browse the deck using [[https://app.thoughtsaver.com/embed/cBGzVcb6Lx7X][Thought Saver]], an application developed by Spencer Greenberg. You can find the deck [[https://app.thoughtsaver.com/embed/cBGzVcb6Lx7X][here]] (you'll need to create an account to access it).
+
 * Staying abreast of new releases
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
 
