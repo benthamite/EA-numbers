@@ -1161,5 +1161,3 @@ For what fraction of the history of the universe have humans been alive?
 0.0022%.
 ** Source
 As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. \( \frac{300,000}{13,722,000,000} = 0.00002186270223\).
-* When was the first RCT conducted
-
