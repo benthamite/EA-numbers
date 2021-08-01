@@ -614,7 +614,7 @@ What is the cumulative volume of Open Philanthropy's grants related to global he
 $491 million (June 2021).
 ** Source
 [[https://www.openphilanthropy.org/giving/grants][Open Philanthropy]].
-* Open Phil grants in to farm animal welfare
+* Open Phil grants to farm animal welfare
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
   :ANKI_NOTE_TYPE: EA
@@ -888,7 +888,7 @@ What is the world's life expectancy at birth?
 73.3 years (2020).
 ** Source
 [[https://en.wikipedia.org/wiki/List_of_countries_by_life_expectancy][Wikipedia]] (70.8 years for males and 75.9 years for females).
-* World's life expectancy at birth in 1800
+* World life expectancy at birth in 1800
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
   :ANKI_NOTE_TYPE: EA
@@ -1161,3 +1161,5 @@ For what fraction of the history of the universe have humans been alive?
 0.0022%.
 ** Source
 As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. \( \frac{300,000}{13,722,000,000} = 0.00002186270223\).
+* When was the first RCT conducted
+
