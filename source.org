@@ -455,9 +455,10 @@ How much energy does a human brain consume?
 ** Front
 What are typical estimates for the value of statistical life in the United States?
 ** Back
-Around $10 million.
+Around $7 million.
 ** Source
-"The value of a statistical life (VSL) is the local tradeoff rate between fatality risk and money. When the tradeoff values are derived from choices in market contexts the VSL serves as both a measure of the population’s willingness to pay for risk reduction and the marginal cost of enhancing safety. Given its fundamental economic role, policy analysts have adopted the VSL as the economically correct measure of the benefit individuals receive from enhancements to their health and safety. Estimates of the VSL for the United States are around $10 million ($2017), and estimates for other countries are generally lower given the positive income elasticity of the VSL." ([[https://doi.org/10.1093/acrefore/9780190625979.013.138][Kniesner & Viscusi 2019]])
+"The Value of Statistical Life (VSL) is arguably the most important number in benefit-cost analyses of environmental, health, and transportation policies. However, agencies have used a wide range of VSL values. One reason may be the embarrassment of riches when it comes to VSL studies. While meta-analysis is a standard way to synthesize information across studies, we now have multiple competing meta-analyses and reviews. Thus, to analysts, picking one such meta-analysis may feel as hard as picking a single "best study." This paper responds by taking the meta-analysis another step, estimating a meta-analysis (or mixture distribution) of six meta-analyses. The baseline model yields a central VSL of $7.0m, with a 90% confidence interval of $2.4m to $11.2m. The provided code allows users to easily change subjective weights on the studies, add new studies, or change adjustments for income, inflation, and latency." ([[https://www.nber.org/papers/w29185][Banzhaf 2021]])
+
 * Number of neurons in the human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
