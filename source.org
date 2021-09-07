@@ -1162,3 +1162,88 @@ For what fraction of the history of the universe have humans been alive?
 0.0022%.
 ** Source
 As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. \( \frac{300,000}{13,722,000,000} = 0.00002186270223\).
+* World population reaches 1 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1631031053097
+  :END:
+** Front
+In what year did the world population reach 1 billion?
+** Back
+1805.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 2 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 2 billion?
+** Back
+1925.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 3 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 3 billion?
+** Back
+1960.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 4 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 4 billion?
+** Back
+1974.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 5 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 5 billion?
+** Back
+1987.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 6 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 6 billion?
+** Back
+1999.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+* World population reaches 7 billion
+  :PROPERTIES:
+  :ANKI_DECK: EA-numbers
+  :ANKI_NOTE_TYPE: EA
+  :ANKI_TAGS: ea_numbers
+  :END:
+** Front
+In what year did the world population reach 7 billion?
+** Back
+2011.
+** Source
+[[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
