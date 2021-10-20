@@ -13,18 +13,10 @@ If you are already using a version of the deck and would like to upgrade to the 
 2. Paste the code ~1788670778~ and click /OK/.
 3. Restart Anki.
 
-You're now ready to upgrade:
+You're now ready to upgrade. Simply open Anki on your computer, select /File > CrowdAnki: Import git repository/, and enter ~https://github.com/benthamite/EA-numbers~.
 
-1. Go to the [[https://github.com/benthamite/EA-numbers/releases][Releases]] page.
-2. Under /Assets/, download the file ~EA-numbers.zip~.
-3. Extract the contents of the file to your computer.
-4. Open Anki and make sure your devices are all synchronized.
-5. Select /File/ > /CrowdAnki: Import from disk/.
-6. Browse for and select the folder you extracted, named ~EA-numbers~.
-7. Don't change anything in the CrowdAnki Import Settings dialog box that opens—just press OK to start the import. A dialog box should then confirm that the import was successful.
-
-* Building the deck from the source file
-The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can simplify the process by creating the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. (Please note that you need to delete the lines starting with ~:ANKI_NOTE_ID:~ under each main heading; otherwise anki-editor will emit an error message.)
+* Generating the deck from the source file
+The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can generate the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. However, please note that the ~anki-editor~ package is not properly maintained and that things may not work smoothly (e.g. LaTeX may not export properly or you may get other errors).
 
 In case it is of interest, here is my anki-editor configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]], [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
 
@@ -42,13 +34,13 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
   (anki-editor-create-decks t)
   (anki-editor-org-tags-as-anki-tags t)
   :config
-  ;; The very simple Keyboard Maestro macro called by this function may be downloaded here:
-  ;; https://www.dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
+  ;; The very simple Keyboard Maestro macro called by this function can be downloaded here:
+  ;; dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
   (defun ps/anki-editor-open-note-externally ()
     "Copy note id to clipboard, switch to Anki desktop, and open note in browser."
     (interactive)
     (let ((note-id (org-entry-get nil "ANKI_NOTE_ID")))
-      (if (eq note-id nil)
+      (if (not note-id)
           (error "Note id not found")
         (progn
           (kill-new (concat "nid:" note-id))
@@ -67,10 +59,13 @@ In case it is of interest, here is my anki-editor configuration (assumes you hav
 * Browsing the deck without using Anki
 If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
 
-You can also study the deck using [[https://app.thoughtsaver.com/][Thought Saver]], an application developed by Spencer Greenberg. You can find the deck [[https://app.thoughtsaver.com/embed/cBGzVcb6Lx7X][here]] (you'll need to create an account to access it).
+You can also study the deck using [[https://app.thoughtsaver.com/][Thought Saver]], an application developed by Spencer Greenberg. The deck can be found [[https://app.thoughtsaver.com/embed/cBGzVcb6Lx7X][here]] (you'll need to create an account to access it).
 
 * Staying abreast of new releases
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
 
-* Bug reports and improvement suggestions
-If you would like to report an error or inaccuracy with the deck, or would like to suggest questions or topics for future releases, please [[https://github.com/benthamite/EA-numbers/issues][open an issue]].
+* Collaborating
+If you would like to fix a mistake or inaccuracy, or add more notes to the deck, you are welcome to do so by following the steps described [[https://github.com/Stvad/CrowdAnki#how-to-collaborate-via-github][here]] (see "How to collaborate via GitHub").
+
+* Etc.
+If you still have questions, please [[https://github.com/benthamite/EA-numbers/issues][open an issue]] or [[https://stafforini.com/contact][contact me]].
