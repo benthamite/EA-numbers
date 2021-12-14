@@ -1278,7 +1278,7 @@
             "__type__": "Note",
             "fields": [
                 "<p>\nIn what year did the world population reach 2 billion?\n</p>\n",
-                "<ol class=\"org-ol\">\n<li></li>\n</ol>\n",
+                "<p>\n1925\n</p>\n",
                 "<p>\n<a href=\"https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL\">Our World in Data</a>.\n</p>\n"
             ],
             "guid": "N$Nt5RK|DZ",
