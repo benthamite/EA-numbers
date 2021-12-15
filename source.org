@@ -4,7 +4,7 @@
 * Age of the universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919221164
   :END:
@@ -17,7 +17,7 @@ What is the age of the universe?
 * Age of Earth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919187570
   :END:
@@ -30,7 +30,7 @@ What is the age of Earth?
 * Age of /homo sapiens/
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919187722
   :END:
@@ -43,7 +43,7 @@ What is the age of /homo sapiens/?
 * Humans who ever lived
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919187818
   :END:
@@ -57,7 +57,7 @@ Around 108 billion.
 * Invention of writing
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919187907
   :END:
@@ -71,7 +71,7 @@ Between 3400 and 3250 BCE.
 * Neolithic revolution
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188219
   :END:
@@ -84,7 +84,7 @@ Around 10,000 BCE.
 * Industrial revolution
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188322
   :END:
@@ -97,7 +97,7 @@ Between 1760 and 1840.
 * World median annual income
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188442
   :END:
@@ -110,7 +110,7 @@ Int$2,835 (2019).
 * Gross world product
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188541
   :END:
@@ -123,7 +123,7 @@ What is gross world product?
 * World GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188644
   :END:
@@ -137,7 +137,7 @@ Int$17,633 (2019).
 * China's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188763
   :END:
@@ -151,7 +151,7 @@ Int$16,804 (2019).
 * United States's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188841
   :END:
@@ -165,7 +165,7 @@ Int$65,298 (2019).
 * India's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188917
   :END:
@@ -179,7 +179,7 @@ Int$6,997 (2019).
 * European Union's GDP per capita
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919188982
   :END:
@@ -193,7 +193,7 @@ Int$46,443 (2019).
 * Poorest Americans and richest Indians
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919189374
   :END:
@@ -207,7 +207,7 @@ For what /n/ is the poorest /n%/ of Americans roughly as rich as the richest /n%
 * Fraction of world in extreme poverty in 1820
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919189487
   :END:
@@ -220,7 +220,7 @@ About 90%.
 * Fraction of world currently in extreme poverty
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919189564
   :END:
@@ -233,7 +233,7 @@ About 10% (2015).
 * Time until Earth no longer habitable
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919190658
   :END:
@@ -252,7 +252,7 @@ years ago (Kellog, 2013)." ([[https://theprecipice.com/][Ord 2020]]: 296–297)
 * Number of working days in a year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919190732
   :END:
@@ -265,7 +265,7 @@ According to [[https://www.work-day.co.uk/][this online calculator]], the figure
 * Number of working hours in a year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919190837
   :END:
@@ -279,7 +279,7 @@ For Western nations, between 1,350 (Germany) and 1,750 (US).
 * Good Ventures's total assets
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919190948
   :END:
@@ -292,7 +292,7 @@ What are Good Ventures's total assets?
 * World population
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191065
   :END:
@@ -305,7 +305,7 @@ What is the world population?
 * Projected world population for 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191370
   :END:
@@ -318,7 +318,7 @@ What is the projected world population for 2050?
 * Peak world population
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191471
   :END:
@@ -331,7 +331,7 @@ Around 11 billion.
 * Population of China
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191562
   :END:
@@ -344,7 +344,7 @@ What is the population of China?
 * Population of China in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191641
   :END:
@@ -357,7 +357,7 @@ What is the population of China projected for 2050?
 * Population of India
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191721
   :END:
@@ -370,7 +370,7 @@ What is the population of India?
 * Population of India in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191820
   :END:
@@ -383,7 +383,7 @@ What is the population of India projected for 2050?
 * Population of US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919191944
   :END:
@@ -396,7 +396,7 @@ What is the population of the United States?
 * Population of US in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919192014
   :END:
@@ -409,7 +409,7 @@ What is the population of the United States projected for 2050?
 * Population of Europe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919192098
   :END:
@@ -422,7 +422,7 @@ What is the population of Europe?
 * Population of Europe in 2050
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919192413
   :END:
@@ -435,7 +435,7 @@ What is the population of Europe projected for 2050?
 * Energy consumed by human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919192488
   :END:
@@ -448,7 +448,7 @@ How much energy does a human brain consume?
 * Value of statistical life in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193546
   :END:
@@ -462,7 +462,7 @@ Around $7 million.
 * Number of neurons in the human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193660
   :END:
@@ -475,7 +475,7 @@ How many neurons are in the human brain?
 * Total number of neurons in all living animals
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193750
   :END:
@@ -488,7 +488,7 @@ Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9OfUNfb27z0zCIaCM
 * Human share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193840
   :END:
@@ -501,7 +501,7 @@ Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9Of
 * Mammal share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193914
   :END:
@@ -514,7 +514,7 @@ Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9Of
 * Bird share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919193979
   :END:
@@ -527,7 +527,7 @@ Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9Of
 * Fish share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194293
   :END:
@@ -540,7 +540,7 @@ Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9Of
 * Invertebrate share of total neurons
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194363
   :END:
@@ -553,7 +553,7 @@ Computed from Georgia Ray's [[https://docs.google.com/spreadsheets/d/1MbkEkQy9Of
 * Estimated number of lives saved by smallpox eradication
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194430
   :END:
@@ -566,7 +566,7 @@ Between 150 and 200 million.
 * Number of deaths from mosquito-borne diseases
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194513
   :END:
@@ -579,7 +579,7 @@ About 52 billion.
 * Open Philanthropy's yearly grants
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194632
   :END:
@@ -592,7 +592,7 @@ Around $270 million (2017–2020).
 * Open Phil grants in global catastrophic risk
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194740
   :END:
@@ -605,7 +605,7 @@ $284 million (June 2021).
 * Open Phil grants in global health and development
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194841
   :END:
@@ -618,7 +618,7 @@ $491 million (June 2021).
 * Open Phil grants to farm animal welfare
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919194949
   :END:
@@ -631,7 +631,7 @@ $141 million (June 2021).
 * Donations moved by GiveWell
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195048
   :END:
@@ -644,7 +644,7 @@ $674 million (2011–2019).
 * Donations by Americans
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195164
   :END:
@@ -657,7 +657,7 @@ $450 billion (2019).
 * Donations by American foundations
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195463
   :END:
@@ -670,7 +670,7 @@ $76 billion (2019).
 * Donations moved by ACE
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195547
   :END:
@@ -683,7 +683,7 @@ $26.4 million (2014–2019).
 * Number of GWWC pledges
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195663
   :END:
@@ -696,7 +696,7 @@ How many people have taken the Giving What We Can pledge?
 * EA Forum monthly visitors
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195737
   :END:
@@ -710,7 +710,7 @@ CEA (private communication).
 * Active EA groups
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195841
   :END:
@@ -723,7 +723,7 @@ Perhaps 200 (2021).
 * Size of median annual EA donation
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195920
   :END:
@@ -736,7 +736,7 @@ Around 3% (2018).
 * Number of highly engaged EAs
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919195985
   :END:
@@ -749,7 +749,7 @@ Around 2,300 (2019).
 * Number of people 80k advises per year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196088
   :END:
@@ -762,7 +762,7 @@ Around 240 (average of 2017–2020).
 * Number of bacteria
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919231313
   :END:
@@ -775,10 +775,11 @@ Around \(5 \times 10^{30}\).
 * Number of atoms in the affectable universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196463
   :END:
+** TODO Check for possible discrepancies between atoms in observable vs affectable universe
 ** Front
 How many atoms are there in the affectable universe?
 ** Back
@@ -788,7 +789,7 @@ Between \(10^{78}\) and \(10^{82}\).
 * Big tech market capitalization
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196540
   :END:
@@ -801,7 +802,7 @@ Around $8.5 trillion (June 2021).
 * WHO budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196614
   :END:
@@ -814,7 +815,7 @@ $4.5 billion (2021).
 * UN budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196696
   :END:
@@ -827,7 +828,7 @@ $57 billion (2019).
 * BWC budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196801
   :END:
@@ -840,7 +841,7 @@ $1.4 million (2019).
 * OPCW budget
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196879
   :END:
@@ -853,7 +854,7 @@ What is the budget of the Organisation for the Prohibition of Chemical Weapons?
 * Japan's life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919196972
   :END:
@@ -866,7 +867,7 @@ What is Japan's life expectancy at birth?
 * Lesotho's life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197090
   :END:
@@ -879,7 +880,7 @@ What is Lesotho's life expectancy at birth?
 * World life expectancy at birth
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197394
   :END:
@@ -892,7 +893,7 @@ What is the world's life expectancy at birth?
 * World life expectancy at birth in 1800
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197497
   :END:
@@ -905,7 +906,7 @@ What was the world's life expectancy at birth in 1800?
 * Millionaires in the world
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197612
   :END:
@@ -919,7 +920,7 @@ How many millionaires are there in the world?
 * Billionaires in the world
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197690
   :END:
@@ -933,7 +934,7 @@ How many billionaires are there in the world?
 * Computational power of the human brain
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197788
   :END:
@@ -946,7 +947,7 @@ Something like \(10^{15}\) floating point operations per second.
 * Pocket calculator share of total computation in 1986
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919197868
   :END:
@@ -959,7 +960,7 @@ What share of total computation did pocket calculators account for in 1986?
 * Age of the oldest company
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198050
   :END:
@@ -974,7 +975,7 @@ How old is the oldest independent, continuously operating company in history?
 * Primary energy consumption
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198165
   :END:
@@ -987,7 +988,7 @@ How much primary energy does the world consume in a year?
 * Cost to avert a death by supporting a top GiveWell charity
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198463
   :END:
@@ -1007,7 +1008,7 @@ Around $5.
 * Number of chickens consumed annually in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198538
   :END:
@@ -1021,7 +1022,7 @@ How many chickens does the average American eat every year?
 * Number of cows consumed per year in the US
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198688
   :END:
@@ -1035,7 +1036,7 @@ How many cows does the average American eat every year?
 * Chicken-years affected per dollar spent on campaigns
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198767
   :END:
@@ -1048,7 +1049,7 @@ How many chicken-years are affected per dollar spent on broiler and cage-free ca
 * Number of stars in the Milky Way
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198873
   :END:
@@ -1061,7 +1062,7 @@ How many stars does the Milky Way contain?
 * Number of galaxies in the affectable universe
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919198947
   :END:
@@ -1074,7 +1075,7 @@ Around 7 billion.
 * Number of affectable galaxies lost per year
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199032
   :END:
@@ -1087,7 +1088,7 @@ Three.
 * Fraction of world population killed by the Black Death
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199138
   :END:
@@ -1096,11 +1097,11 @@ What fraction of the world's population was killed by the Black Death?
 ** Back
 Around 10%.
 ** Source
-"By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] [M]y lowest plausible estimate adds up to 20,856,000, and my highest plausible estimate adds up to 68,016,000. The geometric mean of these two numbers is 37,666,533." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
+"By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] [M]y lowest plausible estimate adds up to 20,856,000, and my highest plausible estimate adds up to 68,016,000. The geometric mean of these two numbers is 37,666,533." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]]) The population at the time was 386,341,458 people ([[https://ourworldindata.org/world-population-growth][Roser, Ritchie & Ortiz-Ospina 2013]]).
 * Fraction of world population killed by 1918 flu pandemic
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199215
   :END:
@@ -1109,24 +1110,24 @@ What fraction of the world's population was killed by the 1918 flu pandemic?
 ** Back
 Around 3%.
 ** Source
-"By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] To construct my estimate, I struck a balance between empirical estimates and speculation, relying more on the former than the latter, and (somewhat arbitrarily) guessed that the 1918 flu pandemic killed ~60 million people." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
+"By my estimate, the deadliest event before the industrial revolution (the Black Death) killed ~9.7% of world population, and the deadliest event after the industrial revolution (the 1918 flu pandemic) killed 3.3% of world population. [...] To construct my estimate, I struck a balance between empirical estimates and speculation, relying more on the former than the latter, and (somewhat arbitrarily) guessed that the 1918 flu pandemic killed ~60 million people." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]]) The population at the time was 1,832,196,157 people ([[https://ourworldindata.org/world-population-growth][Roser, Ritchie & Ortiz-Ospina 2013]]).
 * Fraction of world population killed in World War II
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199513
   :END:
 ** Front
 What fraction of the world's population was killed in World War II?
 ** Back
-Around 3%.
+Around 2%.
 ** Source
-"Wikipedia’s List of wars and anthropogenic disasters by death toll provided “lowest” and “highest” estimates for World War II of 65 million and 85 million, respectively. However, I quickly found that in Matthew White’s collection of historians’ estimates of the death toll of World War II, /most/ estimates were lower than 55 million, with the median estimate at 50 million [about 2.9% of the world's population at the time]." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]])
+"Wikipedia’s List of wars and anthropogenic disasters by death toll provided “lowest” and “highest” estimates for World War II of 65 million and 85 million, respectively. However, I quickly found that in Matthew White’s collection of historians’ estimates of the death toll of World War II, /most/ estimates were lower than 55 million, with the median estimate at 50 million." ([[https://lukemuehlhauser.com/industrial-revolution/#DeadliestProcess][Muehlhauser 2017]]) The population at the time was 2,283,468,864 people ([[https://ourworldindata.org/world-population-growth][Roser, Ritchie & Ortiz-Ospina 2013]]), so a death toll of 50 million constitutes 2.2% of the world's population.
 * Fraction of psych studies that replicate
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199613
   :END:
@@ -1139,7 +1140,7 @@ What fraction of studies in psychology replicate?
 * Fraction of econ studies that replicate
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
   :ANKI_NOTE_ID: 1624919199689
   :END:
@@ -1152,98 +1153,105 @@ A /Science/ study found that about 60% of economics experiments successfully rep
 * Fraction of history when humanity alive
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
-  :ANKI_NOTE_ID: 1625155373261
+  :ANKI_NOTE_ID: 1634181136661
   :END:
 ** Front
 For what fraction of the history of the universe have humans been alive?
 ** Back
 0.0022%.
 ** Source
-As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. \( \frac{300,000}{13,772,000,000} = 0.0000217833284926\).
+As noted elsewhere in this deck, the universe has existed for 13.772 billion years and humanity has existed for 300,000 years. (\( \frac{300000}{13772000000} = 0.0000217833284926\).)
 * World population reaches 1 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
-  :ANKI_NOTE_ID: 1631031053097
+  :ANKI_NOTE_ID: 1634180144710
   :END:
 ** Front
 In what year did the world population reach 1 billion?
 ** Back
-1805.
+1805
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
 * World population reaches 2 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178584458
   :END:
 ** Front
 In what year did the world population reach 2 billion?
 ** Back
-1925.
+1925
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
 * World population reaches 3 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178803568
   :END:
 ** Front
 In what year did the world population reach 3 billion?
 ** Back
-1960.
+1960
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
 * World population reaches 4 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178771117
   :END:
 ** Front
 In what year did the world population reach 4 billion?
 ** Back
-1974.
+1974
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
+
 * World population reaches 5 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178584630
   :END:
 ** Front
 In what year did the world population reach 5 billion?
 ** Back
-1987.
+1987
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
 * World population reaches 6 billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178584682
   :END:
 ** Front
 In what year did the world population reach 6 billion?
 ** Back
-1999.
+1999
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
-* World population reaches 7 billion
+* World population reaches seven billion
   :PROPERTIES:
   :ANKI_DECK: EA-numbers
-  :ANKI_NOTE_TYPE: EA
+  :ANKI_NOTE_TYPE: EA-numbers
   :ANKI_TAGS: ea_numbers
+  :ANKI_NOTE_ID: 1634178757368
   :END:
 ** Front
 In what year did the world population reach 7 billion?
 ** Back
-2011.
+2011
 ** Source
 [[https://ourworldindata.org/grapher/projected-population-by-country?country=~OWID_WRL][Our World in Data]].
