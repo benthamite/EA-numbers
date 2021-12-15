@@ -18,11 +18,10 @@ You're now ready to upgrade. Simply open Anki on your computer, select /File > C
 * Generating the deck from the source file
 The deck is created by pushing the contents of an [[https://en.wikipedia.org/wiki/Org-mode][org mode]] file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can generate the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. However, please note that the ~anki-editor~ package is not properly maintained and that things may not work smoothly (e.g. LaTeX may not export properly or you may get other errors).
 
-In case it is of interest, here is my ~anki-editor~ configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]], [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
+In case it is of interest, here is my ~anki-editor~ configuration (assumes you have [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
 
 #+begin_src emacs-lisp :results silent
 (use-package anki-editor
-  :straight (:fork (:repo "leoc/anki-editor" :branch "develop"))
   :init
   (setq-default anki-editor-use-math-jax t) ; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
   ;; create custom key map
