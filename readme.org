@@ -16,9 +16,9 @@ If you are already using a version of the deck and would like to upgrade to the 
 You're now ready to upgrade. Simply open Anki on your computer, select /File > CrowdAnki: Import git repository/, and enter ~https://github.com/benthamite/EA-numbers~.
 
 * Generating the deck from the source file
-The deck is created by pushing the contents of an org mode file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can generate the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. However, please note that the ~anki-editor~ package is not properly maintained and that things may not work smoothly (e.g. LaTeX may not export properly or you may get other errors).
+The deck is created by pushing the contents of an [[https://en.wikipedia.org/wiki/Org-mode][org mode]] file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can generate the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. However, please note that the ~anki-editor~ package is not properly maintained and that things may not work smoothly (e.g. LaTeX may not export properly or you may get other errors).
 
-In case it is of interest, here is my anki-editor configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]], [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
+In case it is of interest, here is my ~anki-editor~ configuration (assumes you have [[https://github.com/raxod502/straight.el][straight]], [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
 
 #+begin_src emacs-lisp :results silent
 (use-package anki-editor
