@@ -15,51 +15,6 @@ If you are already using a version of the deck and would like to upgrade to the 
 
 You're now ready to upgrade. Simply open Anki on your computer, select /File > CrowdAnki: Import git repository/, and enter ~https://github.com/benthamite/EA-numbers~.
 
-* Generating the deck from the source file
-The deck is created by pushing the contents of an [[https://en.wikipedia.org/wiki/Org-mode][org mode]] file to the Anki desktop app (with the [[https://github.com/louietan/anki-editor][anki-editor Emacs package]]); exporting the generated deck to a JSON file (with the [[https://github.com/Stvad/CrowdAnki][CrowdAnki Anki add-on]]); and uploading this file to the current repository. If you are an Emacs user, you can generate the deck directly from the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]]. However, please note that the ~anki-editor~ package is not properly maintained and that things may not work smoothly (e.g. LaTeX may not export properly or you may get other errors).
-
-In case it is of interest, here is my ~anki-editor~ configuration (assumes you have [[https://github.com/jwiegley/use-package][use-package]] and [[https://github.com/noctuid/general.el][general]] installed):
-
-#+begin_src emacs-lisp :results silent
-(use-package anki-editor
-  :init
-  (setq-default anki-editor-use-math-jax t) ; github.com/louietan/anki-editor/issues/60#issuecomment-617441799
-  ;; create custom key map
-  (progn
-    (defvar anki-editor-mode-map (make-sparse-keymap))
-    (add-to-list 'minor-mode-map-alist (cons 'anki-editor-mode
-                                             anki-editor-mode-map)))
-  :custom
-  (anki-editor-create-decks t)
-  (anki-editor-org-tags-as-anki-tags t)
-  :config
-  ;; The very simple Keyboard Maestro macro called by this function can be downloaded here:
-  ;; dropbox.com/s/or5h9v9ydnd3z9f/Anki%3A%20open%20note%20ID.kmmacros?dl=0
-  (defun ps/anki-editor-open-note-externally ()
-    "Copy note id to clipboard, switch to Anki desktop, and open note in browser."
-    (interactive)
-    (let ((note-id (org-entry-get nil "ANKI_NOTE_ID")))
-      (if (not note-id)
-          (error "Note id not found")
-        (progn
-          (kill-new (concat "nid:" note-id))
-          (shell-command "osascript -e 'tell application \"Keyboard Maestro Engine\" to do script \"496A3425-8985-4117-AE0F-ABD6DC85FB9F\"'")))))
-  :general
-  ("M-A-i" 'anki-editor-mode)
-  (anki-editor-mode-map
-   "s-c" 'anki-editor-cloze-region
-   "s-i" 'anki-editor-insert-note
-   "s-n" 'anki-editor-push-new-notes
-   "s-x" 'ps/anki-editor-open-note-externally
-   "s-a" 'anki-editor-push-notes ; push all notes
-   "s-h" (lambda () (interactive) (anki-editor-push-notes '(4))))) ; push notes under heading
-#+end_src
-
-* Browsing the deck without using Anki
-If you would like to browse the deck's contents without using Anki, just go to the [[https://github.com/benthamite/EA-numbers/blob/main/source.org][source file]].
-
-You can also study the deck using [[https://app.thoughtsaver.com/][Thought Saver]], an application developed by Spencer Greenberg. The deck can be found [[https://app.thoughtsaver.com/embed/cBGzVcb6Lx7X][here]] (you'll need to create an account to access it).
-
 * Staying abreast of new releases
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
 
