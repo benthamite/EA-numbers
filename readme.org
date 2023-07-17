@@ -1,12 +1,18 @@
 #+TITLE:Some key numbers that every effective altruist should know
-#+AUTHOR: Pablo Stafforini <pablo@stafforini.com>
+#+AUTHOR: Pablo Stafforini
 
 This is a repository for the Anki deck "Some key numbers that every effective altruist should know". See the [[https://forum.effectivealtruism.org/posts/o9SLSkPJ6A2MWb9Bf/anki-deck-for-some-key-numbers-that-almost-every-ea-should][original announcement]] posted to the Effective Altruism Forum for details.
 
 * Downloading for the first time
+:PROPERTIES:
+:ID:       5C286243-2827-4067-98B2-9C3DE8FC990F
+:END:
 If you never used the deck before, you can download it straight away from [[https://ankiweb.net/shared/info/1810848608][AnkiWeb]].
 
 * Upgrading to the latest version
+:PROPERTIES:
+:ID:       81D439F8-AB49-4B67-9C47-CA00469894D9
+:END:
 If you are already using a version of the deck and would like to upgrade to the latest version, you first need to install the [[https://github.com/Stvad/CrowdAnki][CrowdAnki]] add-on:
 
 1. Open Anki on your computer and select /Tools/ > /Add-ons/ > /Get Add-ons/.
@@ -16,10 +22,30 @@ If you are already using a version of the deck and would like to upgrade to the 
 You're now ready to upgrade. Simply open Anki on your computer, select /File > CrowdAnki: Import git repository/, and enter ~https://github.com/benthamite/EA-numbers~.
 
 * Staying abreast of new releases
+:PROPERTIES:
+:ID:       129C4B47-98F9-442E-BC2E-1F2DB17FF2F0
+:END:
 If you would like to be notified when a new version of the deck is released, click on /Watch/ in the top right corner, select /Custom/ and tick the /Releases/ box.
 
 * Collaborating
+:PROPERTIES:
+:ID:       9358EBC7-EC4B-4176-AD05-FF806D451138
+:END:
 If you would like to fix a mistake or inaccuracy, or add more notes to the deck, you are welcome to do so by following the steps described [[https://github.com/Stvad/CrowdAnki#how-to-collaborate-via-github][here]] (see "How to collaborate via GitHub").
 
+* Similar decks
+:PROPERTIES:
+:ID:       0767FE39-E2B8-41DF-807B-C26B072305FF
+:END:
+If you liked this deck, you may also like
+
+- [[https://ankiweb.net/shared/info/518509868][World's Biggest Problems]]
+- [[https://ankiweb.net/shared/info/1887210179][Global Health and Development]]
+
+I would appreciate pointers to other similar decks.
+
 * Etc.
+:PROPERTIES:
+:ID:       C020C1ED-5C7C-4016-9CE9-60358F6E7CB6
+:END:
 If you still have questions, please [[https://github.com/benthamite/EA-numbers/issues][open an issue]] or [[https://stafforini.com/contact][contact me]].
